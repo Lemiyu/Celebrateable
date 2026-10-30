@@ -3,7 +3,7 @@
 // Make webhook receives a copy in parallel for the Notion CRM (silent, fire-and-forget).
 
 const PUBLIC_KEY = "6C1F8nVeYysBzes5c";
-const SERVICE_ID = "service_9cybihr";
+const SERVICE_ID = "service_jjfn47l";
 const TEMPLATE_ID = "template_lt1sxpo";
 
 const form = document.getElementById("contact-form");
